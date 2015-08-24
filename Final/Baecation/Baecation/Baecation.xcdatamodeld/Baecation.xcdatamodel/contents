@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7549" systemVersion="14A389" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="City" syncable="YES">
+        <attribute name="artsy" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="festive" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="historic" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lowkey" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="outdoorsy" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="relaxing" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="state" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="touristy" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="City" positionX="-54" positionY="-9" width="128" height="180"/>
+    </elements>
+</model>

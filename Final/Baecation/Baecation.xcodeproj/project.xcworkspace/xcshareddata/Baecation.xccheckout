@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DD88C0B2-F930-4F94-8597-52206C7323F2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4FA0317783DECF979753860AB1976B8B3E138BAB</key>
+		<string>https://github.com/uchicago-mobi/alextsu-MPCS51032-2015-Spring-Assignment-4.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Final/Baecation/Baecation.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4FA0317783DECF979753860AB1976B8B3E138BAB</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/uchicago-mobi/alextsu-MPCS51032-2015-Spring-Assignment-4.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4FA0317783DECF979753860AB1976B8B3E138BAB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4FA0317783DECF979753860AB1976B8B3E138BAB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>alextsu-MPCS51032-2015-Spring-Assignment-4</string>
+		</dict>
+	</array>
+</dict>
+</plist>
